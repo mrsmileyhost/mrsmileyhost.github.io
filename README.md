@@ -1,1 +1,1 @@
-[Smiley's PS4 Exploit ](https://Hello.com/)
+[Smiley's PS4 Exploit ](https://ps-jb.github.io/)
