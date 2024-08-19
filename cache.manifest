@@ -1,0 +1,12 @@
+CACHE MANIFEST 
+
+CACHE: 
+index.html
+./images/img.png
+./images/Smiley.png
+./css/style.css
+./js/int64.js
+./js/kexploit.js
+./js/rop.js
+./js/webkit.js
+./exploit/goldhen_2.4b17.3.bin
