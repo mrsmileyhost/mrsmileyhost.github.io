@@ -9,4 +9,5 @@ index.html
 ./js/kexploit.js
 ./js/rop.js
 ./js/webkit.js
+./js/particles.js
 ./exploit/goldhen_2.4b17.3.bin
