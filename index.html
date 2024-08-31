@@ -11,15 +11,9 @@
 <body onload="setTimeout(poc, 50);">
   <script>
     if (window.applicationCache.status === '0') {
-        window.location.replace("cache.html");
-    } else {
-        window.addEventListener('load', function() {
-            var script = document.createElement('script');
-            script.src = './js/particles.js';
-            document.body.appendChild(script);
-        });
+      window.location.replace("cache.html");
     }
-</script>
+  </script>
   <canvas id="particlesField">This Browser is not supported</canvas>
   <h1 style="display: inline-block;">
     <img src="./images/Smiley.gif" alt="Smiley" style="width: 75px; height: 75px; vertical-align: middle; padding-right: 10px;">
